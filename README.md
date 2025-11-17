@@ -69,6 +69,3 @@ CLIENT:  VITE_SOCKET_URL=http://localhost:5000
   - Typing indicator, reactions, read receipts, search overlay
   - Refresh/reconnect flows recover recent history and state
 
-Add screenshots/GIFs of the running app before submission if required. Feel free to deploy (Render + Vercel/Netlify) and document the URLs here.
-
-Happy chatting! 🎧
